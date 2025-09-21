@@ -19,16 +19,21 @@ Provided by Kaggle.
 ### Data Cleaning
 
 Handled missing values (Age, Embarked, Fare) with appropriate imputations.
+
 Dropped irrelevant columns (e.g., Cabin, Ticket).
 
 ### Feature Engineering
 Extracted Title from names (Mr, Mrs, Miss, Master, Rare).
+
 Created Family_Size (SibSp + Parch + 1).
+
 Created Is_Alone (1 if Family_Size = 1, else 0).
+
 Converted categorical variables to numeric using one-hot encoding.
 
 ## Modeling
 Logistic Regression as the baseline model.
+
 Tuned hyperparameter C using GridSearchCV for better regularization.
 
 ## Evaluation
@@ -43,7 +48,9 @@ Scored 0.78229 on Kaggle’s public leaderboard (Top ~20% on second submission �
 
 ### 💡 Next Improvements
 Explore advanced models (Random Forest, XGBoost).
+
 Feature interactions & more sophisticated feature scaling.
+
 Ensemble methods for higher accuracy.
 
 ## 🏆 Leaderboard
