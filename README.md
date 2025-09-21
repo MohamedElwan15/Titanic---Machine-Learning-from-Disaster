@@ -36,7 +36,7 @@ Tuned hyperparameter C using GridSearchCV for better regularization.
 Scored 0.78229 on Kaggle’s public leaderboard (Top ~20% on second submission 🎯).
 
 ## 📈 Results
-| Submission | Score (Accuracy) | Rank   |
+| Submission | Score (Accuracy) | Rank (out of 13,000+)  |
 | ---------- | ---------------- | ------ |
 | First try  | **0.76794**      | \~8947 |
 | Second try | **0.78229**      | \~2347 |
