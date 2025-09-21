@@ -60,7 +60,8 @@ My second submission reached a score of 0.78229 with Logistic Regression + featu
 Clone the repo
 
 git clone https://github.com/MohamedElwan15/Titanic---Machine-Learning-from-Disaster
-cd titanic-ml
+
+cd Titanic---Machine-Learning-from-Disaster
 
 Run the notebook to reproduce results.
 
